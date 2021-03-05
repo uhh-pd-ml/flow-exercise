@@ -39,6 +39,6 @@ This will create a new anaconda environment called `flow_env` that contains all 
 
 ## Solutions to the exercise
 
-We also provided jupyter notebooks with the solutions to the tasks. In google colab, these can be accessed ad this [Link]().
+We also provided jupyter notebooks with the solutions to the tasks. In google colab, these can be accessed at this [link](https://colab.research.google.com/drive/1e3uiT3x455KayX6lZty7d4yYafBWPYPV?usp=sharing).
 
 They can also be accesed from this repository. The solutions are located in a separate `solutions` branch.
