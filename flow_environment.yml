@@ -1,12 +1,15 @@
 name: flow_env
 channels:
+  - nvidia
   - anaconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
   - backcall=0.2.0=py_0
-  - ca-certificates=2020.10.14=0
-  - certifi=2020.6.20=py38_0
+  - ca-certificates=2021.1.19=h06a4308_0
+  - certifi=2020.12.5=py38h06a4308_0
+  - cudatoolkit=11.0.221=h6bb024c_0
+  - cudnn=8.0.4=cuda11.0_0
   - decorator=4.4.2=py_0
   - ipykernel=5.3.4=py38h5ca1d4c_0
   - ipython=7.18.1=py38h5ca1d4c_0
