@@ -1,5 +1,5 @@
 # flow-exercise
-Exercise on Normalizing Flows, as conducted in the 2nd Terascale School of Machine Learning 2021 [(Link)](https://indico.desy.de/event/28296/) by S. Diefenbacher, G. Kasieczka, T. Lösche and M. Sommerhalder
+Exercise on Normalizing Flows, as conducted in the 2nd Terascale School of Machine Learning 2021 [(Link)](https://indico.desy.de/event/28296/) by S. Diefenbacher, G. Kasieczka, T. Quadfasel and M. Sommerhalder
 
 ## Getting started
 
